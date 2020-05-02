@@ -64,7 +64,7 @@ Simply put:
 
   
 
-References:
+References
 ----
 
 - "Axes Labels in R - How to set the title and axis-titles in R" 
